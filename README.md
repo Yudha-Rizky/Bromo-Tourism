@@ -45,5 +45,4 @@ It enhances interactivity and improves user experience with the following featur
 # Hosting
 The website is intended to be hosted on **GitHub Pages**.  
 You can access it via the provided repository’s link once published.
-
-Example:  https://<username>.github.io/MountBromoTourism/
+https://yudha-rizky.github.io/Bromo-Tourism/
