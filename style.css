@@ -51,20 +51,6 @@ body {
 /* ===============================
    Dark Mode
 =================================*/
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: rgba(7, 10, 14, 1);
-    --card: rgba(12, 17, 22, 0.65);
-    --muted: #9ca3af;
-    --text: #000000;
-    --overlay: rgba(2, 6, 23, 0.55);
-  }
-
-  .bg-overlay {
-    background: linear-gradient(180deg, rgba(2, 6, 23, 0.35), rgba(2, 6, 23, 0.6));
-  }
-}
-
 /* Manual dark mode toggle */
 html.dark {
   --bg: rgb(0, 0, 0);
